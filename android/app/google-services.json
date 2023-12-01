@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019099055197",
+    "project_id": "aso-ads-app",
+    "storage_bucket": "aso-ads-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019099055197:android:288a3562007350d568f9b4",
+        "android_client_info": {
+          "package_name": "com.example.ads_aso_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD8_7VPRQgXS0vlTAZLT8jiioRKS3EzGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
